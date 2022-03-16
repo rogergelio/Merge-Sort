@@ -37,7 +37,9 @@ Como fue explicado en la [información general](#información-general), **el pro
 Le recomendamos utilizar netbeans para para poder ver y operar el código. Si no lo ha descargado, puede hacerlo [aqui](https://netbeans.apache.org/download/index.html).
 ### Descargar el repositorio de código
 Una vez que haya instalado netbeans, por favor descargue el código. En la [página principal de github del repositorio](https://github.com/rogergelio/Merge-Sort), haga click en **código-->descargar como zip**.
-Si no logra encontrar el bóton, 
+Si no logra encontrar el bóton, por favor utilice [esta imagen](https://ibb.co/f8r5Qnt) como apoyo.
+Posteriormente, usted deberá de crear una 
+
 ### Agregar el repositorio a NetBeans
 
 ## ¿Cómo utilizar el proyecto?
