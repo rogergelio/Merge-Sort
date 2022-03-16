@@ -36,7 +36,7 @@ Como fue explicado en la [información general](#información-general), **el pro
 ### Instalar un ambiente de desarrollo
 Le recomendamos utilizar netbeans para para poder ver y operar el código. Si no lo ha descargado, puede hacerlo [aqui](https://netbeans.apache.org/download/index.html).
 ### Descargar el repositorio de código
-Una vez que haya instalado netbeans, por favor descargue el código. 
+Una vez que haya instalado netbeans, por favor descargue el código. En la página principal de github del repositorio, haga click en **código-->descargar como zip**.
 ### Agregar el repositorio a NetBeans
 
 ## ¿Cómo utilizar el proyecto?
