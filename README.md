@@ -33,7 +33,11 @@ Para más información sobre NetBeans, hacer click [aqui](https://netbeans.apach
 Como fue explicado en la [información general](#información-general), **el propósito principal del algorítmo "Merge-Sort" es ordenar números de menor a mayor**. Por lo tanto, la única funcionalidad de nuestro código es ordenar un arreglo de números enteros definido por el usuario. 
 
 ## ¿Cómo configurar el proyecto?
-
+### Instalar un ambiente de desarrollo
+Le recomendamos utilizar netbeans para para poder ver y operar el código. Si no lo ha descargado, puede hacerlo [aqui](https://netbeans.apache.org/download/index.html).
+### Descargar el repositorio de código
+Una vez que haya instalado netbeans, por favor descargue el código. 
+### Agregar el repositorio a NetBeans
 
 ## ¿Cómo utilizar el proyecto?
 
