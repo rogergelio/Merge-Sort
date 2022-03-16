@@ -15,7 +15,7 @@ Este repositorio contiene la implementación de un algoritmo llamado *Merge-Sort
 ## Información General
 
 ### ¿Por qué usar algoritmos de ordenamiento?
-Orenar un arreglo de números es un proceso extremadamente importante en la computación. Es relevante saber ordenar un conjunto de datos porque es mucho más eficiente hacer búsquedas sobre un conjunto de datos ordenados que sobre uno no ordenado. Por lo tanto, es importante conocer diferentes algorítmos de ordenamiento que se podrían usar optimizar procesos como búsquedas, por ejemplo. "Merge-Sort", el algorítmo que explicaremos a continuación, es un algorítmo que hace justamente eso: ordenar datos. 
+**Orenar un arreglo de números es un proceso extremadamente importante en la computación.** Es relevante saber ordenar un conjunto de datos porque es mucho más eficiente hacer búsquedas sobre un conjunto de datos ordenados que sobre uno no ordenado. Por lo tanto, es importante conocer diferentes algorítmos de ordenamiento que se podrían usar optimizar procesos como búsquedas, por ejemplo. "Merge-Sort", el algorítmo que explicaremos a continuación, es un algorítmo que hace justamente eso: ordenar datos. 
 
 ### Características generales
 Algunas características del algoritmo son: 
@@ -25,12 +25,12 @@ Algunas características del algoritmo son:
 ### ¿Cómo funciona?
 
 ## Tecnologías Usadas
-Este proyecto fue desarrollado en el lenguaje Java. Además, se utilizó NetBeans como nuestro entorno de desarrollo. 
+Este proyecto fue desarrollado en el lenguaje *Java*. Además, se utilizó *NetBeans* como nuestro entorno de desarrollo. 
 Para más información sobre Java, hacer click [aqui](https://www.java.com/es/)
 Para más información sobre NetBeans, hacer click [aqui](https://netbeans.apache.org/download/index.html).
 
 ## Funcionalidades
-Como fue explicado en la [información general](#información-general), el propósito principal del algorítmo "Merge-Sort" es ordenar números de menor a mayor. Por lo tanto, la única funcionalidad de nuestro código es ordenar un arreglo de números enteros definido por el usuario. 
+Como fue explicado en la [información general](#información-general), **el propósito principal del algorítmo "Merge-Sort" es ordenar números de menor a mayor**. Por lo tanto, la única funcionalidad de nuestro código es ordenar un arreglo de números enteros definido por el usuario. 
 
 ## ¿Cómo configurar el proyecto?
 
@@ -45,4 +45,4 @@ Aunque el algoritmo Merge-Sort sin duda es mejor que un algorítmo tradicional d
 ## Agradecimientos
 Este proyecto fue realizado con la ayuda de mi compañero Alexander Perelman. 
 ## Contacto
-Para cualquier duda sobre el proyecto, por favor mándeme un correo a: rogergeliotorres@gmail.com. 
+Para cualquier duda sobre el proyecto, por favor mándeme un correo a: *rogergeliotorres@gmail.com*. 
