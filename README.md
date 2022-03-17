@@ -41,14 +41,26 @@ Como fue explicado en la [información general](#información-general), **el pro
 Le recomendamos utilizar netbeans para para poder ver y operar el código. Si no lo ha descargado, puede hacerlo [aqui](https://netbeans.apache.org/download/index.html).
 ### Descargar el repositorio de código
 Una vez que haya instalado netbeans, por favor descargue el código. En la [página principal de github del repositorio](https://github.com/rogergelio/Merge-Sort), haga click en **código-->descargar como zip**.
-Si no logra encontrar el bóton, por favor utilice [esta imagen](https://ibb.co/f8r5Qnt) como apoyo.
-Posteriormente, usted deberá de crear una nueva carpeta en su computadora, y nombrarla como prefiera. Luego, en su carpeta de descargas, seleccione el archivo y descomprímalo dentro de la carpeta recién creada. Para 
+Si no logra encontrar el bóton, por favor utilice esta imagen como apoyo:
+
+![Captura de pantalla (42)](https://user-images.githubusercontent.com/87195114/158710387-ce6248ac-74b3-480a-9325-b525e66527a8.png)
+
+Posteriormente, usted deberá de crear una nueva carpeta en su computadora, y nombrarla como prefiera. Luego, en su carpeta de descargas, seleccione el archivo y descomprímalo dentro de la carpeta recién creada. 
 
 ### Agregar el código a NetBeans
-Una vez que su carpeta con el código esté lista, abra NetBeans. Una vez dentro del programa, haga click en file-->Open Project en la esquina superior derecha. Luego, busque su carpeta utilizando la barra de búsqueda que está en la parte superior de la ventana que se acaba de abrir. Una vez que la haya encontrado, seleccionela y de click en Open Project. 
+Una vez que su carpeta con el código esté lista, abra NetBeans. Una vez dentro del programa, haga click en file-->Open Project en la esquina superior derecha. Luego, busque su carpeta utilizando la barra de búsqueda que está en la parte superior de la ventana que se acaba de abrir. Una vez que la haya encontrado, seleccionela y de click en Open Project. Si no logra encontrar los botones, por favor apóyese en la siguiente imagen: 
+
+![Captura de pantalla (44)](https://user-images.githubusercontent.com/87195114/158711049-40a4d14b-a7c6-4855-b18a-b19a24861781.png)
 
 ## ¿Cómo utilizar el proyecto?
-Una vez que haya importado el proyecto correctamente, 
+Una vez que haya importado el proyecto correctamente, dirígase al método "main", ubicado hasta el final del código. Si no lo logra localizar, la siguiente imagen podría serle de utilidad:
+![Captura de pantalla (43)](https://user-images.githubusercontent.com/87195114/158709686-017bb96f-05c2-42e8-8347-f99020cb2c60.png)
+Para darle al programa un arrelgo de números, ingreselos dentro de los corchetes a la derecha de la variable p. Los números deben de ir seguidos por una coma, excepto por el útlimo. Un ejemplo de un arreglo podría ser [2,3,7,-1,5]. Es importante aclarar que el programa no procesará números que no sean enteros. 
+Una vez que se haya terminado de declarar el arreglo de números haga click en el botón de "run". Si no lo encuentra, puede apoyarse en este imagen:
+
+![Captura de pantalla (45)](https://user-images.githubusercontent.com/87195114/158712070-21aae597-9059-4326-858d-aa4aabc1bded.png)
+
+Posteriormente, verá dos arreglos impresos en consola. El primero será su arreglo original. El segundo será su arreglo ordenado de mayor a menor. 
 
 ## Estátus del proyecto
 Este proyecto fue completado en diciembre del 2020. 
