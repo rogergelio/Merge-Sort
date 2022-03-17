@@ -24,9 +24,15 @@ Algunas características del algoritmo son:
 - Divide al arreglo en múltiples partes, y las ordena por separado para optimizar el tiempo de procesamiento. 
 
 ### ¿Cómo funciona?
-En términos simples, **el algorítmo divide el arreglo de números en partes iguales** (o casi iguales). Por ejemplo, un arreglo de 6 números se partiría en dos fracciones de 3 números. Luego, vuelve a hacer esto hasta que todas las partes estén conformadas por uno o dos números. Una vez que llega a este punto, el programa ordena los "pequeños arreglos" de números y los vuelve a juntar, asegurándose que, cuando lo haga, sea de menor a mayor, hasta terminar con un arreglo del mismo tamaño que el inicial, con los mismos números ordenados de menor a mayor. Si no ha quedado claro como funciona el algorítmo, pasemos a un **ejemplo**.
+En términos simples, **el algorítmo divide el arreglo de números en partes iguales** (o casi iguales). Por ejemplo, un arreglo de 6 números se partiría en dos fracciones de 3 números. Luego, vuelve a hacer esto hasta que todas las partes estén conformadas por un número. Una vez que llega a este punto, el programa ordena los "pequeños arreglos" de números y los vuelve a juntar, asegurándose que, cuando lo haga, sea de menor a mayor, hasta terminar con un arreglo del mismo tamaño que el inicial, con los mismos números ordenados de menor a mayor. Si no ha quedado claro como funciona el algorítmo, pasemos a un **ejemplo**.
 
 ### Ejemplo con representación Visual
+Supongamos un arreglo con los siguientes números: [6,5,12,10,9,1]. Una representación visual de como el algorítmo ordenaría este arreglo sería: 
+
+![Captura de pantalla (46)](https://user-images.githubusercontent.com/87195114/158712710-ae016b2e-21f0-4083-930b-1f18a25f8032.png)
+*Imagen tomada de esta [página](https://www.programiz.com/dsa/merge-sort).*
+
+Lo que podemos observar, en resúmen, es que el algorítmo divide todos los números hasta tenerlos por separado, y los vuelve a ordenar dentro de los arreglos que creó. 
 
 ## Tecnologías Usadas
 Este proyecto fue desarrollado en el lenguaje *Java*. Además, se utilizó *NetBeans* como nuestro entorno de desarrollo. 
