@@ -5,7 +5,8 @@
 
 ### Características generales
 Algunas características del algoritmo son: 
-	@@ -24,29 +24,29 @@ Algunas características del algoritmo son:
+- Puede ordenar números de cualquier signo, sean positivos o negativos. 
+- Tiene una complejidad logarítmica, por lo que es más rápido que un ordenamiento tradicional. 
 - Divide al arreglo en múltiples partes, y las ordena por separado para optimizar el tiempo de procesamiento. 
 
 ### ¿Cómo funciona?
