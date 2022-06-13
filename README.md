@@ -65,6 +65,6 @@ Este proyecto fue completado en diciembre del 2020.
 ## Áreas de Mejora
 Aunque el algoritmo Merge-Sort sin duda es mejor que un algoritmo tradicional de ordenamiento para ordenar un arreglo de números de menor a mayor, es importante aclarar que todavía existen muchos algoritmos de ordenamiento aún más rápidos, como por ejemplo el [quicksort](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm).
 ## Agradecimientos
-Este proyecto fue realizado con la ayuda de mi compañero Alexander Perelman. 
+Este código fue creado por Andrés Gomez, profesor del ITAM. Sin su código, este ejercicio de documentación no habría sido posible. 
 ## Contacto
 Para cualquier duda sobre el proyecto, por favor mándeme un correo a: *rogergeliotorres@gmail.com*. 
